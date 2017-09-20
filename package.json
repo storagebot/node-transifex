@@ -35,6 +35,6 @@
     "should": "^13.0.0"
   },
   "devDependencies": {
-    "nock": "^9.0.2"
+    "nock": "^9.0.17"
   }
 }
